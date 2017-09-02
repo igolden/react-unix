@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+const Terminal = require("../lib") 
+let terminal = new Terminal()
